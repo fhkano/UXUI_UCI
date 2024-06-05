@@ -33,6 +33,13 @@
 .bioText{
     padding: 10px 3%;
 }
+
+.bottomNav{
+    display: inline-block;
+    vertical-align: top;
+    background-color: #EEEEEE;
+}
+
 .linkStyle2{
     text-decoration: none;
     color: black;
